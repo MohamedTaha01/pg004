@@ -1,0 +1,19 @@
+body{
+  background-color: #000;
+
+}
+p{
+  font-family: 'Francois One', sans-serif;
+  color: #fff;
+  font-size: 4.3rem;
+  position: absolute;top: 5rem;left: 90vh;
+  text-align: center;
+}
+img{
+  width: 10rem;
+  position: absolute;top: 1rem;
+  left: 94vh;
+}
+.dtop{
+  position: relative;top: 25vh;
+}
